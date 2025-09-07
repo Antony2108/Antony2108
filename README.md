@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Antony2108
 - 👀 I’m interested in skills on teaching coding.
-- 🌱 I’m currently learning Python, Node.js, HTML5 Canvas
 - 💞️ I’m looking to collaborate on teaching and coding skills
 - 📫 How to reach me at messagig
 - 😄 Pronouns: An-tun-ly
